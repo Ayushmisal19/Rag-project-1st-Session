@@ -1,0 +1,9 @@
+Python Basics Notes
+What is Python?
+Python is a high-level, interpreted programming language known for its simplicity and readability.
+Variables and Data Types
+Python supports int, float, string, list, tuple, dictionary, and boolean data types.
+Control Flow
+Conditional statements include if, elif, and else. Loops include for and while loops.
+Functions
+Functions are defined using the def keyword and help in code reusability
